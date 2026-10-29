@@ -14,7 +14,11 @@ Gyári és irodai társ Windowsra, Hankook-hangulatban: egy kis gumi-figura a k�
   kollégákkal, a Hankook értékei, koreai szokások, 5S, minőség — buborékban és animált jelenetekben (tűzoltás P-A-S-S,
   LOTO, targonca, köszönések sok nyelven); Hankook-történet és friss hírek (naponta, csak a címek), koreai közmondások.
 - **Gyári jelenetek:** FIFO, anyaghasználat és szelektív gyűjtés, andon (megállj, szólj, várj), árnyéktábla, elsősegély,
-  RFID-azonosítás, rali (WRC), a ~100 millió abroncs évente.
+  RFID-azonosítás, rali (WRC), a ~100 millió abroncs évente; emelés, hallásvédő, forgó gép, majdnem-baleset (아차사고),
+  botlásveszély, kiürítés, műszakátadás, 5 miért.
+- **Gumitudás:** vulkanizálás, az abroncs felépítése, DOT-kód, profilmélység, téli gumi (7 °C), a kerékcsavarok
+  csillag-sorrendje.
+- **Koreai kultúra jelenetekben:** 김장, két kézzel adni, 윷놀이, 태권도, 비빔밥, 제기차기.
 - **Ünnepek:** magyar és koreai ünnepek saját jelenettel — újév, 설날, március 15., húsvét, 추석, 한글날, augusztus 20.,
   október 23., mindenszentek, advent, mikulás, karácsony, szilveszter és a többi.
 - **Normál és műszakos üzemmód:** a műszakos a pihenők tévéjére (0–24): műszakokhoz (6–14–22) igazodó
@@ -44,7 +48,11 @@ A factory and office companion for Windows, in Hankook style: a little tyre figu
   fighting P-A-S-S, LOTO, forklift, greetings in many languages); Hankook history and fresh news (daily, titles only),
   Korean proverbs.
 - **Factory scenes:** FIFO, using materials and sorting waste, andon (stop, call, wait), shadow board, first aid, RFID
-  identification, rally (WRC), the ~100 million tyres a year.
+  identification, rally (WRC), the ~100 million tyres a year; lifting, hearing protection, rotating machines, near misses
+  (아차사고), trip hazards, evacuation, shift handover, 5 Whys.
+- **Tyre know-how:** curing, how a tyre is built, the DOT code, tread depth, winter tyres (7 °C), the star pattern for
+  wheel nuts.
+- **Korean culture in scenes:** 김장, giving with both hands, 윷놀이, 태권도, 비빔밥, 제기차기.
 - **Holidays:** Hungarian and Korean holidays with their own scenes — New Year, 설날, 15 March, Easter, 추석, 한글날,
   20 August, 23 October, All Saints, Advent, St Nicholas, Christmas, New Year's Eve and more.
 - **Normal and shift mode:** shift mode is for the break-room TV (24/7): lines and routine that follow
