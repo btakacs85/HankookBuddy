@@ -6,13 +6,17 @@
 
 Gyári és irodai társ Windowsra, Hankook-hangulatban: egy kis gumi-figura a képernyő sarkában.
 
-- **A gumicsalád:** Abroncs és a testvérei — Ventus (sport), iON (elektromos), Winter (téli), Dynapro (terep) — saját
+- **A gumicsalád:** Taieo (타이어 — koreaiul „gumiabroncs”) és a testvérei — Ventus (sport), iON (elektromos), Winter (téli), Dynapro (terep) — saját
   sapkával, díszítéssel és jelenettel; koreai gesztusok (인사, ㅋㅋㅋ, 손가락 하트, 화이팅), Kakao-stílusú matricák.
 - **Napirend:** közös reggeli torna (국민체조) mind az öt figurával, ebéd (ramyeon a lábasból), tüzes péntek (불금),
   a nap koreai szava, szem- és vízpihenő; ágyba bújni csak éjjel szokott.
 - **Tanít:** tűzvédelem, munkavédelem, kevesebb selejt, vigyázzunk egymásra, kommunikáció, közös hang a külföldi
   kollégákkal, a Hankook értékei, koreai szokások, 5S, minőség — buborékban és animált jelenetekben (tűzoltás P-A-S-S,
   LOTO, targonca, köszönések sok nyelven); Hankook-történet és friss hírek (naponta, csak a címek), koreai közmondások.
+- **Gyári jelenetek:** FIFO, anyaghasználat és szelektív gyűjtés, andon (megállj, szólj, várj), árnyéktábla, elsősegély,
+  RFID-azonosítás, rali (WRC), a ~100 millió abroncs évente.
+- **Ünnepek:** magyar és koreai ünnepek saját jelenettel — újév, 설날, március 15., húsvét, 추석, 한글날, augusztus 20.,
+  október 23., mindenszentek, advent, mikulás, karácsony, szilveszter és a többi.
 - **Normál és műszakos üzemmód:** a műszakos a pihenők tévéjére (0–24): nem alszik el, műszakokhoz (6–14–22) igazodó
   mondatok és napirend, műszakváltáskor koreai köszönés, balesetmentes napok (무사고).
 - **Magyarul és angolul:** a felület, a súgó és a figura minden mondata; egy kattintással váltható.
@@ -39,6 +43,10 @@ A factory and office companion for Windows, in Hankook style: a little tyre figu
   with colleagues from abroad, Hankook's values, Korean customs, 5S, quality — in bubbles and animated scenes (fire
   fighting P-A-S-S, LOTO, forklift, greetings in many languages); Hankook history and fresh news (daily, titles only),
   Korean proverbs.
+- **Factory scenes:** FIFO, using materials and sorting waste, andon (stop, call, wait), shadow board, first aid, RFID
+  identification, rally (WRC), the ~100 million tyres a year.
+- **Holidays:** Hungarian and Korean holidays with their own scenes — New Year, 설날, 15 March, Easter, 추석, 한글날,
+  20 August, 23 October, All Saints, Advent, St Nicholas, Christmas, New Year's Eve and more.
 - **Normal and shift mode:** shift mode is for the break-room TV (24/7): never falls asleep, lines and routine that follow
   the shifts (6–14–22), a Korean greeting at shift change, accident-free days (무사고).
 - **Hungarian and English:** the interface, the help and every line the figure says; switch with one click.
