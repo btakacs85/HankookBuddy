@@ -17,7 +17,7 @@ Gyári és irodai társ Windowsra, Hankook-hangulatban: egy kis gumi-figura a k�
   RFID-azonosítás, rali (WRC), a ~100 millió abroncs évente.
 - **Ünnepek:** magyar és koreai ünnepek saját jelenettel — újév, 설날, március 15., húsvét, 추석, 한글날, augusztus 20.,
   október 23., mindenszentek, advent, mikulás, karácsony, szilveszter és a többi.
-- **Normál és műszakos üzemmód:** a műszakos a pihenők tévéjére (0–24): nem alszik el, műszakokhoz (6–14–22) igazodó
+- **Normál és műszakos üzemmód:** a műszakos a pihenők tévéjére (0–24): műszakokhoz (6–14–22) igazodó
   mondatok és napirend, műszakváltáskor koreai köszönés, balesetmentes napok (무사고).
 - **Magyarul és angolul:** a felület, a súgó és a figura minden mondata; egy kattintással váltható.
 - Időjárás-figyelés (Open-Meteo) gumicsere-figyelővel (7 °C).
@@ -47,7 +47,7 @@ A factory and office companion for Windows, in Hankook style: a little tyre figu
   identification, rally (WRC), the ~100 million tyres a year.
 - **Holidays:** Hungarian and Korean holidays with their own scenes — New Year, 설날, 15 March, Easter, 추석, 한글날,
   20 August, 23 October, All Saints, Advent, St Nicholas, Christmas, New Year's Eve and more.
-- **Normal and shift mode:** shift mode is for the break-room TV (24/7): never falls asleep, lines and routine that follow
+- **Normal and shift mode:** shift mode is for the break-room TV (24/7): lines and routine that follow
   the shifts (6–14–22), a Korean greeting at shift change, accident-free days (무사고).
 - **Hungarian and English:** the interface, the help and every line the figure says; switch with one click.
 - Weather watching (Open-Meteo) with a tyre change reminder (7 °C).
