@@ -10,12 +10,13 @@ Gyári és irodai társ Windowsra, Hankook-hangulatban: egy kis gumi-figura a k�
   sapkával, díszítéssel és jelenettel; koreai gesztusok (인사, ㅋㅋㅋ, 손가락 하트, 화이팅), Kakao-stílusú matricák.
 - **Napirend:** közös reggeli torna (국민체조) mind az öt figurával, ebéd (ramyeon a lábasból), tüzes péntek (불금),
   a nap koreai szava, szem- és vízpihenő; ágyba bújni csak éjjel szokott.
-- **Tanít:** Hankook-történet és friss hírek (naponta, csak a címek), koreai kultúra és közmondások, 5S, biztonság,
-  minőség, „vissza az alapokhoz”, „figyeljünk egymásra”.
-- **Kijelző mód** gyári tévére: nem alszik el, műszakokhoz (6–14–22) igazodó mondatok és napirend, műszakváltáskor
-  koreai köszönés, balesetmentes napok (무사고).
+- **Tanít:** tűzvédelem, munkavédelem, kevesebb selejt, vigyázzunk egymásra, kommunikáció, közös hang a külföldi
+  kollégákkal, a Hankook értékei, koreai szokások, 5S, minőség — buborékban és animált jelenetekben (tűzoltás P-A-S-S,
+  LOTO, targonca, köszönések sok nyelven); Hankook-történet és friss hírek (naponta, csak a címek), koreai közmondások.
+- **Normál és műszakos üzemmód:** a műszakos a pihenők tévéjére (0–24): nem alszik el, műszakokhoz (6–14–22) igazodó
+  mondatok és napirend, műszakváltáskor koreai köszönés, balesetmentes napok (무사고).
 - **Magyarul és angolul:** a felület, a súgó és a figura minden mondata; egy kattintással váltható.
-- Időjárás-figyelés (Open-Meteo) gumicsere-figyelővel (7 °C), „svájci bicska” IT-eszköztár.
+- Időjárás-figyelés (Open-Meteo) gumicsere-figyelővel (7 °C).
 - Egyetlen exe, telepítés nélkül, .NET-tel együtt. Önfrissítés: a kiadó kulcsával aláírt kiadásokból.
 
 ### Letöltés
@@ -34,12 +35,14 @@ A factory and office companion for Windows, in Hankook style: a little tyre figu
   Kakao-style stickers.
 - **Daily routine:** morning exercises together (국민체조) with all five figures, lunch (ramyeon from the pot), Fire Friday
   (불금), the Korean word of the day, eye and water breaks; it only goes to bed at night.
-- **It teaches:** Hankook history and fresh news (daily, titles only), Korean culture and proverbs, 5S, safety, quality,
-  "back to basics", "look out for each other".
-- **Display mode** for the factory TV: never falls asleep, lines and routine that follow the shifts (6–14–22), a Korean
-  greeting at shift change, accident-free days (무사고).
+- **It teaches:** fire safety, workplace safety, less scrap, looking out for each other, communication, common ground
+  with colleagues from abroad, Hankook's values, Korean customs, 5S, quality — in bubbles and animated scenes (fire
+  fighting P-A-S-S, LOTO, forklift, greetings in many languages); Hankook history and fresh news (daily, titles only),
+  Korean proverbs.
+- **Normal and shift mode:** shift mode is for the break-room TV (24/7): never falls asleep, lines and routine that follow
+  the shifts (6–14–22), a Korean greeting at shift change, accident-free days (무사고).
 - **Hungarian and English:** the interface, the help and every line the figure says; switch with one click.
-- Weather watching (Open-Meteo) with a tyre change reminder (7 °C), a "Swiss Army knife" IT toolbox.
+- Weather watching (Open-Meteo) with a tyre change reminder (7 °C).
 - A single exe, no installation, .NET included. Self-updating from releases signed with the publisher's key.
 
 ### Download
