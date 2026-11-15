@@ -16,13 +16,17 @@ Gyári és irodai társ Windowsra, Hankook-hangulatban: egy kis gumi-figura a k�
 - **Gyári jelenetek:** FIFO, anyaghasználat és szelektív gyűjtés, andon (megállj, szólj, várj), árnyéktábla, elsősegély,
   RFID-azonosítás, rali (WRC), a ~100 millió abroncs évente; emelés, hallásvédő, forgó gép, majdnem-baleset (아차사고),
   botlásveszély, kiürítés, műszakátadás, 5 miért.
+- **Gyárlátogatás:** a gumigyártás tíz állomása sorban (Mixing → … → Logistics), RFID–GMES visszakövetés, a
+  minőségellenőrök (QC) munkája, EHS-bejárás; biztonsági kvíz három válasszal.
+- **Látvány és időjárás:** drift, diszkó, rakéta, szivárvány…; az aktuális időjáráshoz illő jelenetek (eső, hó, ónos eső,
+  vihar, köd, napsütés).
 - **Gumitudás:** vulkanizálás, az abroncs felépítése, DOT-kód, profilmélység, téli gumi (7 °C), a kerékcsavarok
   csillag-sorrendje.
 - **Koreai kultúra jelenetekben:** 김장, két kézzel adni, 윷놀이, 태권도, 비빔밥, 제기차기.
 - **Ünnepek:** magyar és koreai ünnepek saját jelenettel — újév, 설날, március 15., húsvét, 추석, 한글날, augusztus 20.,
-  október 23., mindenszentek, advent, mikulás, karácsony, szilveszter és a többi.
-- **Normál és műszakos üzemmód:** a műszakos a pihenők tévéjére (0–24): műszakokhoz (6–14–22) igazodó
-  mondatok és napirend, műszakváltáskor koreai köszönés, balesetmentes napok (무사고).
+  október 23., mindenszentek, advent, mikulás, karácsony, szilveszter és a többi; a nagyobbak előtt visszaszámlálás.
+- **Normál és műszakos üzemmód:** a műszakos a pihenők tévéjére (0–24): az (állítható) műszakrendhez igazodó
+  mondatok és napirend, műszakváltáskor koreai köszönés, balesetmentes napok (무사고), központi üzenetek egy szövegfájlból.
 - **Magyarul és angolul:** a felület, a súgó és a figura minden mondata; egy kattintással váltható.
 - Időjárás-figyelés (Open-Meteo) gumicsere-figyelővel (7 °C).
 - Egyetlen exe, telepítés nélkül, .NET-tel együtt. Önfrissítés: a kiadó kulcsával aláírt kiadásokból.
@@ -50,13 +54,19 @@ A factory and office companion for Windows, in Hankook style: a little tyre figu
 - **Factory scenes:** FIFO, using materials and sorting waste, andon (stop, call, wait), shadow board, first aid, RFID
   identification, rally (WRC), the ~100 million tyres a year; lifting, hearing protection, rotating machines, near misses
   (아차사고), trip hazards, evacuation, shift handover, 5 Whys.
+- **Factory tour:** the ten stations of tyre production in order (Mixing → … → Logistics), RFID–GMES traceability, the
+  work of the quality inspectors (QC), the EHS patrol; a safety quiz with three answers.
+- **Show and weather:** drift, disco, rocket, rainbow…; scenes that fit the current weather (rain, snow, freezing rain,
+  storm, fog, sunshine).
 - **Tyre know-how:** curing, how a tyre is built, the DOT code, tread depth, winter tyres (7 °C), the star pattern for
   wheel nuts.
 - **Korean culture in scenes:** 김장, giving with both hands, 윷놀이, 태권도, 비빔밥, 제기차기.
 - **Holidays:** Hungarian and Korean holidays with their own scenes — New Year, 설날, 15 March, Easter, 추석, 한글날,
-  20 August, 23 October, All Saints, Advent, St Nicholas, Christmas, New Year's Eve and more.
+  20 August, 23 October, All Saints, Advent, St Nicholas, Christmas, New Year's Eve and more; a countdown before the
+  bigger ones.
 - **Normal and shift mode:** shift mode is for the break-room TV (24/7): lines and routine that follow
-  the shifts (6–14–22), a Korean greeting at shift change, accident-free days (무사고).
+  the (adjustable) shift pattern, a Korean greeting at shift change, accident-free days (무사고), central notices from a
+  text file.
 - **Hungarian and English:** the interface, the help and every line the figure says; switch with one click.
 - Weather watching (Open-Meteo) with a tyre change reminder (7 °C).
 - A single exe, no installation, .NET included. Self-updating from releases signed with the publisher's key.
